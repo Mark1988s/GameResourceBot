@@ -51,6 +51,7 @@
 	<entry key="GUNPOWDER">Polvere da Sparo</entry>
 	<entry key="HAIR_COMB">Pettini</entry>
 	<entry key="HELIUM_3">Elio 3</entry>
+	<entry key="HONOR_BADGE">Stemma d'Onore</entry>
 	<entry key="HYDROGEN">Idrogeno</entry>
 	<entry key="INSULATED_WIRE">Cavo Isolato</entry>
 	<entry key="IRON">Ferro</entry>
@@ -113,5 +114,5 @@
 	<entry key="WINTERFEST_TOY">Giocattolo Festa Invernale</entry>
 	<entry key="WOOD">Legno</entry>
 	<entry key="YELLOW_CANDY">Dolcetto Giallo</entry>
+	<entry key="ZIP_DRIVE">Zip Drive</entry>
 </properties>
-

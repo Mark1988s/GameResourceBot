@@ -49,6 +49,7 @@
 	<entry key="GUNPOWDER">Gunpowder</entry>
 	<entry key="HAIR_COMB">Haircomb</entry>
 	<entry key="HELIUM_3">Helium 3</entry>
+	<entry key="HONOR_BADGE">Honor Badge</entry>
 	<entry key="HYDROGEN">Hydrogen</entry>
 	<entry key="INSULATED_WIRE">Insulated Wire</entry>
 	<entry key="IRON">Iron</entry>
@@ -111,5 +112,5 @@
 	<entry key="WINTERFEST_TOY">Winterfest Toy</entry>
 	<entry key="WOOD">Tree</entry>
 	<entry key="YELLOW_CANDY">Yellow Candy</entry>
+	<entry key="ZIP_DRIVE">Zip Drive</entry>
 </properties>
-
